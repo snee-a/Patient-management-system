@@ -9,7 +9,6 @@
 
 - 👯 I’m looking to collaborate on [Patient Management system](file:///F:/heart_me_out-main/heart_me_out-main/index.html)
 
-- 🤝 I’m looking for help with [Patient Management system](file:///F:/heart_me_out-main/heart_me_out-main/index.html)
 
 - 👨‍💻 All of my projects are available at [https://snee-a.github.io/Portfolio/](https://snee-a.github.io/Portfolio/)
 
